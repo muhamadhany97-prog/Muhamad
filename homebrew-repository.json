@@ -19,8 +19,7 @@
         "iconUri": "",
         "sourceUrl": "https://github.com/muhamadhany97-prog/-",
         "rootRequired": false,
-        "ipkUrl": "https://github.com/muhamadhany97-prog/-/releases/download/v2.1.4/RGBTv_v2.1.4_memory_optimized.ipk"
-      },
+        "ipkUrl": "https://raw.githubusercontent.com/muhamadhany97-prog/Muhamad/main/RGBTv_v2.1.4_memory_optimized%20%281%29.ipk"
       "pool": "main",
       "shortDescription": "RGBTv",
       "fullDescriptionUrl": ""
