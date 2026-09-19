@@ -1,13 +1,26 @@
 {
-  "name": "RGBTv Repository",
-  "apps": [
+  "paging": {
+    "page": 1,
+    "count": 1,
+    "maxPage": 1,
+    "itemsTotal": 1
+  },
+  "packages": [
     {
       "id": "com.rgbtv.app",
       "title": "RGBTv",
-      "version": "2.1.4",
-      "description": "RGBTv",
-      "icon": "",
-      "ipkUrl": "https://github.com/muhamadhany97-prog/-/releases/download/v2.1.4/RGBTv_v2.1.4_memory_optimized.ipk"
+      "iconUri": "",
+      "manifest": {
+        "id": "com.rgbtv.app",
+        "version": "2.1.4",
+        "type": "web",
+        "title": "RGBTv",
+        "appDescription": "RGBTv",
+        "iconUri": "",
+        "sourceUrl": "https://github.com/muhamadhany97-prog/Muhamad",
+        "rootRequired": false,
+        "ipkUrl": "https://github.com/muhamadhany97-prog/-/releases/download/v2.1.4/RGBTv_v2.1.4_memory_optimized.ipk"
+      }
     }
   ]
 }
