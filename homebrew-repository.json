@@ -1,0 +1,13 @@
+{
+  "name": "RGBTv Repository",
+  "apps": [
+    {
+      "id": "com.rgbtv.app",
+      "title": "RGBTv",
+      "version": "2.1.4",
+      "description": "RGBTv",
+      "icon": "",
+      "ipkUrl": "https://github.com/muhamadhany97-prog/-/releases/download/v2.1.4/RGBTv_v2.1.4_memory_optimized.ipk"
+    }
+  ]
+}
