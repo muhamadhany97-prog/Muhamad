@@ -17,14 +17,11 @@
         "title": "RGBTv",
         "appDescription": "RGBTv",
         "iconUri": "",
-        "sourceUrl": "https://github.com/muhamadhany97-prog/Muhamad",
+        "sourceUrl": "https://github.com/muhamadhany97-prog/-",
         "rootRequired": false,
-        "ipkUrl": "https://raw.githubusercontent.com/muhamadhany97-prog/Muhamad/main/RGBTv_v2.1.4_memory_optimized.ipk",
-        "ipkHash": {
-          "sha256": "3ff2652ba5f6aa817ddbe7540694729e7e1fdb77b83754da35db905d81fd20a1"
-        },
-        "ipkSize": 247492
+        "ipkUrl": "https://github.com/muhamadhany97-prog/-/releases/download/v2.1.4/RGBTv_v2.1.4_memory_optimized.ipk"
       },
+      "pool": "main",
       "shortDescription": "RGBTv",
       "fullDescriptionUrl": ""
     }
