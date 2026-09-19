@@ -1,9 +1,9 @@
 {
   "id": "com.rgbtv.app",
-  "version": "2.1.4",
-  "ipkUrl": "https://raw.githubusercontent.com/muhamadhany97-prog/Muhamad/main/RGBTv_v2.1.4_memory_optimized.ipk",
+  "version": "2.1.5",
+  "ipkUrl": "https://github.com/muhamadhany97-prog/Muhamad/releases/download/v2.1.5/RGBTv_v2.1.5_stalker_fixed.ipk",
   "ipkHash": {
-    "sha256": "23fbe3e363ed9a9c999aba326c6d30ac67736e06103837d6208d7b421c7be0c2"
+    "sha256": "400385d977c0f580f5a98888953c41487aba22b93a5c3c8242611fceef1b20c5"
   },
   "ipkSize": 247492
 }
