@@ -12,18 +12,18 @@
       "iconUri": "https://raw.githubusercontent.com/muhamadhany97-prog/Muhamad/main/icon.png",
       "manifest": {
         "id": "com.rgbtv.app",
-        "version": "2.1.4",
+        "version": "2.1.5",
         "type": "web",
         "title": "RGBTv",
         "appDescription": "RGBTv IPTV Player",
         "iconUri": "https://raw.githubusercontent.com/muhamadhany97-prog/Muhamad/main/icon.png",
         "sourceUrl": "https://github.com/muhamadhany97-prog/Muhamad",
         "rootRequired": false,
-        "ipkUrl": "https://raw.githubusercontent.com/muhamadhany97-prog/Muhamad/main/RGBTv_v2.1.4_stalker_dpkg_gzip.ipk",
+        "ipkUrl": "https://raw.githubusercontent.com/muhamadhany97-prog/Muhamad/main/RGBTv_v2.1.5_stalker_directlink_fix.ipk",
         "ipkHash": {
-          "sha256": "18e8d3c11758a0db3a4a7ed80cd8571a0989ae9985d2c7d743597f0dcf9cba8e"
+          "sha256": "fe40addc85fc6e9339db647eb4e477f04eef60ba6b1f63797a23bc5a70d5d714"
         },
-        "ipkSize": 247842
+        "ipkSize": 247798
       },
       "pool": "main",
       "shortDescription": "RGBTv IPTV Player",
