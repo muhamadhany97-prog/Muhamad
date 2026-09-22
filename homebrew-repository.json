@@ -21,9 +21,9 @@
         "rootRequired": false,
         "ipkUrl": "https://raw.githubusercontent.com/muhamadhany97-prog/Muhamad/main/RGBTv_v2.1.5_stalker_fixed_webos.ipk",
         "ipkHash": {
-          "sha256": "ffe37582e25ef9c6f74ecac16efc4e5bf3f079a0c2c7f9f83607692bc6a0e83f"
+          "sha256": "9efc7680e908cab9ea35e1d9ed9f77978520670d8b6b1ec8e759a47d33ce20c1"
         },
-        "ipkSize": 247200
+        "ipkSize": 248320
       },
       "pool": "main",
       "shortDescription": "RGBTv IPTV Player",
