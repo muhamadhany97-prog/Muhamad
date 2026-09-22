@@ -1,33 +1,15 @@
 {
-  "paging": {
-    "page": 1,
-    "count": 1,
-    "maxPage": 1,
-    "itemsTotal": 1
+  "id": "com.rgbtv.app",
+  "version": "2.1.4",
+  "type": "web",
+  "title": "RGBTv",
+  "appDescription": "RGBTv IPTV Player",
+  "iconUri": "https://raw.githubusercontent.com/muhamadhany97-prog/Muhamad/main/icon.png",
+  "sourceUrl": "https://github.com/muhamadhany97-prog/Muhamad",
+  "rootRequired": false,
+  "ipkUrl": "https://raw.githubusercontent.com/muhamadhany97-prog/Muhamad/main/RGBTv_v2.1.4_stalker_fixed_corrected.ipk",
+  "ipkHash": {
+    "sha256": "69240943a73ac4715ef39b1bfdab332f2dbd050b7fdf8ab661f70b6f359c2d40"
   },
-  "packages": [
-    {
-      "id": "com.rgbtv.app",
-      "title": "RGBTv",
-      "iconUri": "",
-      "manifest": {
-        "id": "com.rgbtv.app",
-        "version": "2.1.4",
-        "type": "web",
-        "title": "RGBTv",
-        "appDescription": "RGBTv",
-        "iconUri": "",
-        "sourceUrl": "https://github.com/muhamadhany97-prog/-",
-        "rootRequired": false,
-        "ipkUrl": "https://raw.githubusercontent.com/muhamadhany97-prog/Muhamad/main/RGBTv_v2.1.4_stalker_fixed_final.ipk",
-        "ipkHash": {
-          "sha256": "98250548285518cf22aee6a0b17cddab01d212664b18e64933470095af01ac1c"
-        },
-        "ipkSize": 247864
-      },
-      "pool": "main",
-      "shortDescription": "RGBTv 2.1.4 Stalker Fixed",
-      "fullDescriptionUrl": ""
-    }
-  ]
+  "ipkSize": 247782
 }
