@@ -1,5 +1,33 @@
 {
-  "id": "com.rgbtv.app",
-  "version": "2.1.6",
-  "ipkUrl": "https://github.com/muhamadhany97-prog/Muhamad/releases/download/v2.1.6/RGBTv_v2.1.6_stalker_fixed.ipk"
+  "paging": {
+    "page": 1,
+    "count": 1,
+    "maxPage": 1,
+    "itemsTotal": 1
+  },
+  "packages": [
+    {
+      "id": "com.rgbtv.app",
+      "title": "RGBTv",
+      "iconUri": "",
+      "manifest": {
+        "id": "com.rgbtv.app",
+        "version": "2.1.4",
+        "type": "web",
+        "title": "RGBTv",
+        "appDescription": "RGBTv",
+        "iconUri": "",
+        "sourceUrl": "https://github.com/muhamadhany97-prog/-",
+        "rootRequired": false,
+        "ipkUrl": "https://raw.githubusercontent.com/muhamadhany97-prog/Muhamad/main/RGBTv_v2.1.4_stalker_fixed_final.ipk",
+        "ipkHash": {
+          "sha256": "98250548285518cf22aee6a0b17cddab01d212664b18e64933470095af01ac1c"
+        },
+        "ipkSize": 247864
+      },
+      "pool": "main",
+      "shortDescription": "RGBTv 2.1.4 Stalker Fixed",
+      "fullDescriptionUrl": ""
+    }
+  ]
 }
